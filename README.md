@@ -20,6 +20,7 @@ Redux is Great, but it does have a few shortcomings.
 Redux toolkit serves as an abstraction over redux. it hides the difficult parts ensuring you have a good developer experience.
 
 ![](./public/Readme/React%20Toolkit%20Process.png)
+<br>
 
 ## Structure to Learn Redux:
 
@@ -27,14 +28,10 @@ Redux toolkit serves as an abstraction over redux. it hides the difficult parts 
 2. Learn Redux-Toolkit
 3. Learn React-Redux
 
-<br>
-
-### Prerequisites
+#### **Prerequisites:**
 
     - React Fundamentals
     - React Hooks
-
-<br>
 
 ### **Day 1**:
 
