@@ -35,6 +35,6 @@ Redux toolkit serves as an abstraction over redux. it hides the difficult parts 
 
 ### **Day 1**:
 
-`27/12/22`
+`--/12/22`
 <br>
 <img src="https://media0.giphy.com/media/13VLdHIQRb8zQc/giphy.gif?cid=790b761139649fcbebc663ec138bf6268a255990c913eb92&rid=giphy.gif&ct=g" width="20">
